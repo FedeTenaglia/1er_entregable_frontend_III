@@ -52,13 +52,14 @@ header p span {
   text-align: center;
 }
 
-.producto h5 span{
+.producto h5 .sinStock{
   background-color: rgb(255, 178, 178);
   padding: 3px;
   font-weight: lighter;
   color: rgb(155, 0, 0);
   border-radius: 3px;
 }
+
 .producto button{
   padding: 5px;
   text-transform: uppercase;
